@@ -2,7 +2,7 @@
 
 Submitted by: **Raymond Chen**
 
-**Name of your app** is an app that introduces ... [TODO] 
+This is the second part of the BeReal clone project where you will add persistence and some cool BeReal functionality to the app.
 
 Time spent: **3** hours spent in total
 
